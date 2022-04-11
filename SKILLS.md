@@ -13,7 +13,7 @@
 | 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟩 hash table       | 🟩 algorithm         |
 | 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟩 linked list      | 🟩 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟦 pure               | 🟩 queue            | 🟩 hardcode          |
-| 🟩 heap              | 🟩 for                | 🟩 function           | 🟩 stack            | 🟩 complexity        |
+| 🟩 heap              | 🟩 for                | 🟩 properties         | 🟩 stack            | 🟩 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟩 deque            | 🟩 decomposition     |
 | 🟩 primitive types   | 🟩 break, continue    | 🟦 closure            | 🟩 serialization    | 🟩 spaghetti         |
 | 🟩 reference         | 🟩 bitwise operators  | 🟦 partial            | 🟦 mixin, extend    | 🟩 silver bullet     |
@@ -24,10 +24,10 @@
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
 | 🟩 arrow function    |                       | ⬜️ pipe               | ⬜️ Proxy            | 🟩 return early      |
 | 🟩 async function    |                       | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
-|                      |                       | 🟩 factory            | 🟨 string parsing   | ⬜️ prettier          |
+| 🟩 operators ? and ??|                       | 🟩 factory            | 🟨 string parsing   | ⬜️ prettier          |
 |                      |                       | 🟦 pool               | 🟩 timers           | 🟦 unittest          |
 |                      |                       | 🟦 wrapper            | 🟩 null             | 🟩 git               |
 |                      |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
 |                      |                       | 🟩 lambda             |                     | 🟨 ASP.NET           |
-|                      |                       | 🟩 properties         |                     |                      |
-|                      |                       |                       |                     |                      |
+|                      |                       | 🟩 params             |                     |                      |
+|                      |                       | 🟩 out modifier       |                     |                      |
