@@ -3,7 +3,6 @@
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](PROJECT.md)</code><br>
-<code>🧑‍💻 Languages: С#, C++, C, Kotlin</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 
 
