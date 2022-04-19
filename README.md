@@ -10,7 +10,7 @@
 
 
 ### Languages and Tools:
-![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C#&logoColor=6A5ACD)
+![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C&logoColor=6A5ACD)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=000080) <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
