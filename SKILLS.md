@@ -22,12 +22,12 @@
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟦 callback           | 🟩 RegExp           | 🟩 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
-| 🟩 arrow function    |                       | ⬜️ pipe               | ⬜️ Proxy            | 🟩 return early      |
-| 🟩 async function    |                       | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
-| 🟩 operators ? and ??|                       | 🟩 factory            | 🟨 string parsing   | ⬜️ prettier          |
-|                      |                       | 🟦 pool               | 🟩 timers           | 🟦 unittest          |
-|                      |                       | 🟦 wrapper            | 🟩 null             | 🟩 git               |
-|                      |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
+| 🟩 arrow function    | 🟩 Interfaces         | ⬜️ pipe               | ⬜️ Proxy            | 🟩 return early      |
+| 🟩 async function    | 🟩 Tuples             | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
+| 🟩 operators ? and ??| 🟩 Records            | 🟩 factory            | 🟩 string parsing   | ⬜️ prettier          |
+| 🟨 Threads           |                       | 🟦 pool               | 🟩 timers           | 🟦 unittest          |
+| 🟩 var               |                       | 🟦 wrapper            | 🟩 null             | 🟩 git               |
+| 🟨 Patterns          |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
 |                      |                       | 🟩 lambda             |                     | 🟨 ASP.NET           |
 |                      |                       | 🟩 params             |                     |                      |
 |                      |                       | 🟩 out modifier       |                     |                      |
