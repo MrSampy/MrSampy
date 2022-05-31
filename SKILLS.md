@@ -28,6 +28,6 @@
 | 🟨 Threads           |                       | 🟦 pool               | 🟩 timers           | 🟦 unittest          |
 | 🟩 var               |                       | 🟦 wrapper            | 🟩 null             | 🟩 git               |
 | 🟨 Patterns          |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
-|                      |                       | 🟩 lambda             |                     | 🟨 ASP.NET           |
+| 🟩 generics          |                       | 🟩 lambda             |                     | 🟨 ASP.NET           |
 |                      |                       | 🟩 params             |                     |                      |
 |                      |                       | 🟩 out modifier       |                     |                      |
