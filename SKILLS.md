@@ -31,3 +31,4 @@
 | 🟩 generics          |                       | 🟩 lambda             |                     | 🟨 ASP.NET           |
 |                      |                       | 🟩 params             |                     |                      |
 |                      |                       | 🟩 out modifier       |                     |                      |
+|                      |                       | 🟩 yield              |                     |                      |
