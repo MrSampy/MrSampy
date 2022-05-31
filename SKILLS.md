@@ -15,7 +15,7 @@
 | 🟩 expression        | 🟩 do..while          | 🟦 pure               | 🟩 queue            | 🟩 hardcode          |
 | 🟩 heap              | 🟩 for                | 🟩 properties         | 🟩 stack            | 🟩 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟩 deque            | 🟩 decomposition     |
-| 🟩 primitive types   | 🟩 break, continue    | 🟦 closure            | 🟩 serialization    | 🟩 spaghetti         |
+| 🟩 primitive types   | 🟩 break, continue    | 🟩 closure            | 🟩 serialization    | 🟩 spaghetti         |
 | 🟩 reference         | 🟩 bitwise operators  | 🟦 partial            | 🟦 mixin, extend    | 🟩 silver bullet     |
 | 🟦 flag              | 🟩 throw              | ⬜️ curry              | 🟩 iterator         | 🟩 not invented here |
 | 🟦 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 typed arrays     | 🟩 dead code         |
