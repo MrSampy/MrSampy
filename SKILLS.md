@@ -18,17 +18,17 @@
 | 🟩 primitive types   | 🟩 break, continue    | 🟩 closure            | 🟩 serialization    | 🟩 spaghetti         |
 | 🟩 reference         | 🟩 bitwise operators  | 🟦 partial            | 🟦 mixin, extend    | 🟩 silver bullet     |
 | 🟦 flag              | 🟩 throw              | ⬜️ curry              | 🟩 iterator         | 🟩 not invented here |
-| 🟦 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 typed arrays     | 🟩 dead code         |
-| 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
-| 🟩 Object            | 🟩 logical operators  | 🟦 callback           | 🟩 RegExp           | 🟩 duplicate code    |
+| 🟦 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 null             | 🟩 dead code         |
+| 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Dictionary       | 🟩 unreachable code  |
+| 🟩 generics          | 🟩 logical operators  | 🟦 callback           | 🟩 RegExp           | 🟩 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
-| 🟩 arrow function    | 🟩 Interfaces         | ⬜️ pipe               | ⬜️ Proxy            | 🟩 return early      |
-| 🟩 async function    | 🟩 Tuples             | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
-| 🟩 operators ? and ??| 🟩 Records            | 🟩 factory            | 🟩 string parsing   | ⬜️ prettier          |
-| 🟨 Threads           |                       | 🟦 pool               | 🟩 timers           | 🟦 unittest          |
-| 🟩 var               |                       | 🟦 wrapper            | 🟩 null             | 🟩 git               |
-| 🟨 Patterns          |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
-| 🟩 generics          |                       | 🟩 lambda             |                     | 🟨 ASP.NET           |
+| 🟩 arrow function    | 🟩 Tuples             | ⬜️ pipe               | ⬜️ Proxy            | 🟩 return early      |
+| 🟩 async function    |                       | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
+| 🟩 operators ? and ??|                       | 🟩 factory            |                     | ⬜️ prettier          |
+| 🟨 Threads           |                       | 🟦 pool               |                     | 🟦 unittest          |
+| 🟩 var               |                       | 🟦 wrapper            |                     | 🟩 git               |
+|                      |                       | 🟩 default parameters |                     | 🟩 github            |
+|                      |                       | 🟩 lambda             |                     | 🟨 ASP.NET           |
 |                      |                       | 🟩 params             |                     |                      |
 |                      |                       | 🟩 out modifier       |                     |                      |
 |                      |                       | 🟩 yield              |                     |                      |
