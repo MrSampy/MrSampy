@@ -37,3 +37,5 @@
 |                      |                       | 🟩 Action             |                     | 🟩 SOLID       |
 |                      |                       | 🟩 Predicate          |                     | 🟩 Design patterns    |
 |                      |                       | 🟩 Func               |                     | 🟩 HTTP methods         |
+|                      |                       |                |                     | 🟩 Swagger          |
+
