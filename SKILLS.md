@@ -28,12 +28,12 @@
 | 🟩 Threads           | 🟩 LINQ               | 🟩 pool               |                     | 🟩 unittest          |
 | 🟩 var               | 🟩 Task               | 🟩 wrapper            |                     | 🟩 git               |
 | 🟩 using             | 🟩 structure          | 🟩 default parameters |                     | 🟩 github            |
-|                      |                       | 🟩 lambda             |                     | 🟨 ASP.NET           |
-|                      |                       | 🟩 params             |                     |                      |
-|                      |                       | 🟩 out modifier       |                     |                      |
-|                      |                       | 🟩 yield              |                     |                      |
-|                      |                       | 🟩 delegate           |                     |                      |
-|                      |                       | 🟩 event              |                     |                      |
-|                      |                       | 🟩 Action             |                     |                      |
-|                      |                       | 🟩 Predicate          |                     |                      |
-|                      |                       | 🟩 Func               |                     |                      |
+|                      |                       | 🟩 lambda             |                     | 🟩 ASP.NET           |
+|                      |                       | 🟩 params             |                     | 🟩 Unit testing      |
+|                      |                       | 🟩 out modifier       |                     | 🟩 .Net Entity Framework|
+|                      |                       | 🟩 yield              |                     | 🟩 MVC (MVP, MVVM)      |
+|                      |                       | 🟩 delegate           |                     | 🟩 Multilayered architecture|
+|                      |                       | 🟩 event              |                     | 🟩 Onion architecture|
+|                      |                       | 🟩 Action             |                     | 🟩 SOLID       |
+|                      |                       | 🟩 Predicate          |                     | 🟩 Design patterns    |
+|                      |                       | 🟩 Func               |                     | 🟩 HTTP methods         |
