@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-MrSampy&color=blue)
 
 <code>🎓 Student: KPI</code>
-<code>👪 Group: IM-12</code>
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](PROJECT.md)</code><br>
