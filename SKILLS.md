@@ -1,41 +1,90 @@
-# Personal profile of software engineering skills
+# Skills
 
-⬜ Optional, 🟦 Required for all, 🟨 Required for С#, 🟩 Learned, 🟥 Declined
+Honest breakdown. Three levels, and I only claim the first one for things I've actually shipped and
+supported in production.
 
-## Fundamental concepts
+- 🟩 **Production** — used daily on a live system, including the parts that go wrong at 2 a.m.
+- 🟦 **Working knowledge** — built real things with it, would need a short ramp-up on an unfamiliar codebase
+- ⬜ **Exploring** — side projects and study, not production experience
 
-| Syntax               | Statements            | Functions             | Data structures     | Process & style      |
-|----------------------|-----------------------|-----------------------|---------------------|----------------------|
-| 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟩 refactoring       |
-| 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟩 code review       |
-| 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟩 antipatterns      |
-| 🟩 constant          | 🟩 switch             | 🟩 signature          | 🟩 collection       | 🟩 paradigm          |
-| 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟩 hash table       | 🟩 algorithm         |
-| 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟩 linked list      | 🟩 magic numbers     |
-| 🟩 expression        | 🟩 do..while          | 🟩 pure               | 🟩 queue            | 🟩 hardcode          |
-| 🟩 heap              | 🟩 for                | 🟩 properties         | 🟩 stack            | 🟩 complexity        |
-| 🟩 type              | 🟩 foreach            | 🟩 side effects       | 🟩 deque            | 🟩 decomposition     |
-| 🟩 primitive types   | 🟩 break, continue    | 🟩 closure            | 🟩 serialization    | 🟩 spaghetti         |
-| 🟩 reference         | 🟩 transform operator | 🟩 partial            | 🟩 mixin, extend    | 🟩 silver bullet     |
-| 🟩 flag              | 🟩 throw              | 🟩 curry              | 🟩 iterator         | 🟩 not invented here |
-| 🟩 lexical scope     | 🟩 try..catch..finally| 🟩 chaining           | 🟩 null             | 🟩 dead code         |
-| 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Proxy            | 🟩 unreachable code  |
-| 🟩 generics          | 🟩 logical operators  | 🟩 callback           | 🟩 RegExp           | 🟩 duplicate code    |
-| 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | 🟩 weak collections | 🟩 exception         |
-| 🟩 arrow function    | 🟩 Tuples             | 🟩 pipe               |                     | 🟩 return early      |
-| 🟩 async function    | 🟩 Parallel           | 🟩 memoize            |                     | 🟩 linter            |
-| 🟩 typeof            | 🟩 Pattern matching   | 🟩 factory            |                     | 🟩 prettier          |
-| 🟩 Threads           | 🟩 LINQ               | 🟩 pool               |                     | 🟩 unittest          |
-| 🟩 var               | 🟩 Task               | 🟩 wrapper            |                     | 🟩 git               |
-| 🟩 using             | 🟩 structure          | 🟩 default parameters |                     | 🟩 github            |
-|                      |                       | 🟩 lambda             |                     | 🟩 ASP.NET           |
-|                      |                       | 🟩 params             |                     | 🟩 Unit testing      |
-|                      |                       | 🟩 out modifier       |                     | 🟩 .Net Entity Framework|
-|                      |                       | 🟩 yield              |                     | 🟩 MVC (MVP, MVVM)      |
-|                      |                       | 🟩 delegate           |                     | 🟩 Multilayered architecture|
-|                      |                       | 🟩 event              |                     | 🟩 Onion architecture|
-|                      |                       | 🟩 Action             |                     | 🟩 SOLID       |
-|                      |                       | 🟩 Predicate          |                     | 🟩 Design patterns    |
-|                      |                       | 🟩 Func               |                     | 🟩 HTTP methods         |
-|                      |                       |                |                     | 🟩 Swagger          |
+← [back to profile](https://github.com/MrSampy)
 
+---
+
+## Backend
+
+| | |
+|---|---|
+| 🟩 | C# / .NET, .NET Core |
+| 🟩 | ASP.NET Core — Web API, MVC |
+| 🟩 | Entity Framework Core |
+| 🟩 | REST API design · Swagger / OpenAPI |
+| 🟩 | SOAP & partner/registry integrations |
+| 🟩 | Multilayer and onion architecture |
+| 🟩 | SOLID · design patterns · refactoring legacy code onto current .NET |
+| 🟦 | Microservices — 5-service .NET 8 system with a message bus |
+| 🟦 | Background processing · async / `Task` / parallelism |
+
+## Data
+
+| | |
+|---|---|
+| 🟩 | MS SQL Server |
+| 🟩 | T-SQL — queries, stored procedures, views |
+| 🟩 | Schema migrations — 800+ versioned migrations across 5 customer databases |
+| 🟩 | Query performance tuning against customer-scale data |
+| 🟩 | Verifying business calculations (commission, underwriting, tariffs) directly in SQL |
+| 🟦 | PostgreSQL · Npgsql |
+| 🟦 | RabbitMQ |
+
+## Quality
+
+| | |
+|---|---|
+| 🟩 | xUnit · MSTest · Moq — 430 tests written into modules that had none |
+| 🟩 | SpecFlow — 330 BDD scenarios |
+| 🟩 | Selenium UI automation — co-owner of a 1,300-test regression framework |
+| 🟩 | Test strategy · acceptance criteria · defect triage · release quality gate |
+| 🟩 | Azure Test Plans |
+| 🟩 | Integration & end-to-end testing |
+| 🟦 | Jest — coverage for a legacy JavaScript front end |
+
+## Frontend
+
+| | |
+|---|---|
+| 🟩 | JavaScript — production work on the platform's web UI |
+| 🟦 | TypeScript |
+| 🟦 | React · React 19 + Vite, Zustand, TanStack Query, React Flow |
+| 🟦 | HTML / CSS |
+
+## Tooling & process
+
+| | |
+|---|---|
+| 🟩 | Azure DevOps — boards, repos, pipelines, test plans |
+| 🟩 | Git · pull-request review (1,100+ PRs merged) |
+| 🟩 | Scrum / two-week sprint delivery |
+| 🟩 | Code review · leading a small team (3 engineers) |
+| 🟦 | Docker · docker compose |
+| 🟦 | CI/CD · GitHub Actions |
+
+## Exploring
+
+| | |
+|---|---|
+| ⬜ | Python |
+| ⬜ | RAG — retrieval-augmented generation over code and review history |
+| ⬜ | Ollama — local LLM inference |
+| ⬜ | ChromaDB — vector search |
+
+---
+
+## Human languages
+
+| Language | Level |
+|---|---|
+| Ukrainian | Native |
+| English | B2 |
+| Russian | C2 |
+| Norwegian | A1 — learning |
